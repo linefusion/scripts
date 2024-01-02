@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-INSTALL_SOURCE=${1:-${INSTALL_SOURCE:-"https://github.com/linefusion/scripts"}}
+INSTALL_SOURCE=${1:-${INSTALL_SOURCE:-"https://github.com/linefusion/scripts/raw/main"}}
 INSTALL_LOCATION=${INSTALL_LOCATION:-"https://l8n.sh"}
 INSTALL_PREFIX=${INSTALL_PREFIX:-""}
 INSTALL_ARGS=(${INSTALL_ARGS:-""})
