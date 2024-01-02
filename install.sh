@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/usr/bin/env bash
 
 INSTALL_SOURCE=${1:-${INSTALL_SOURCE:-"https://github.com/linefusion/scripts"}}
 INSTALL_LOCATION=${INSTALL_LOCATION:-"https://l8n.sh"}
